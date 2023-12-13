@@ -11,10 +11,9 @@ O que ela faz?
 Basicamente ela tem comandos pré-definidos quando você digita "-ajuda" (sem aspas). Incluindo desde um guia sobre o jogo, das classes dos personagens até o resumo da última atualização do jogo com link do Patch Note.
 Os comandos de #guia-builds será atualizado á medida que novos personagens são implementados no jogo.
 Terá um arquivo de todos os comandos respectivos para cada personagem, então esteja ciente disso. Alguma hora o personagem será adicionado e irá para essa lista.
+
 Pode ser que de vez em quando ela entre em manutenção para verificar se está tudo funcionando, quando isso acontecer, só aguarde.
-
 O bot Ravena não utiliza de traduções não oficiais de personagens, mesmo vazando em alguma outra plataforma, SOMENTE quando está no jogo é que será adicionado(a).
-
 Ainda tem dúvidas? Dê o comando "-suporte" (sem aspas), lá terá um comando fornecido com o nosso email diretamente na sua DM(Direct Message) do Discord.
 
 
