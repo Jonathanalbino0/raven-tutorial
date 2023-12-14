@@ -18,7 +18,7 @@
 - Utilize o comando "-suporte" (sem aspas) para obter informações de suporte. Um comando fornecerá nosso e-mail diretamente na sua DM (Direct Message) do Discord.
 
 Atenciosamente,
-Criador do bot Ravena
+Criador do bot Ravena ✨
 
 
 
