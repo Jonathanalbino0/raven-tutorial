@@ -1,3 +1,11 @@
+Comandos pré-definidos:
+-ajuda -> Pode ser útil na primeira vez que use o bot em seu servidor, serve para dar uma orientação a respeitos de todos os comandos dentro do bot.
+-guia -> Ideal para jogadores iniciantes, mostra as raridades dos presentes no jogo, até explicando cada classe.
+-att -> Manter-se atualizado é nossa prioridade, neste comando mostra um pequeno resumo da última atualização do jogo e o link de seu Patch Note.
+-classes -> Comando para mostrar cada classe do jogo com imagens, a explicação está inclusa no comando "-guia".
+-suporte -> Quer entrar em contato conosco? Por aqui você pode, está aberta a todas as pessoas. 
+-instrucoes -> Comando direcionável a página no GitHub, caso o bot sofra alterações ao longo do tempo será postado por meio desse site. Então fique atento(a) por aqui.
+
 Pratas:
 -aww - Amazona Mulher-maravilha
 -svbc - Canário Negro Prata
