@@ -7,11 +7,11 @@
 
 ## O que ela faz?
 
-- Digite "-ajuda" (sem aspas) para obter uma lista de comandos pré-definidos, incluindo um guia sobre o jogo, informações sobre as classes dos personagens e um resumo da última atualização com o link do Patch Note.
-- Os comandos de #guia-builds serão atualizados conforme novos personagens são implementados no jogo. Um arquivo contendo todos os comandos específicos para cada personagem estará disponível. Esteja ciente de que os personagens serão adicionados à lista quando introduzidos no jogo.
+- Basicamente contém informações sobre o jogo Injustice 2 Mobile, desde de guia até resumo da última atualização.
+- Os comandos de #guia-builds serão atualizados conforme novos personagens são implementados no jogo. Um arquivo contendo todos os comandos específicos para cada personagem estará disponível (leia o arquivo "Comandos"). Esteja ciente de que os personagens serão adicionados à lista quando introduzidos no jogo.
 
 - O bot Ravena pode entrar em manutenção ocasionalmente para verificar se está tudo funcionando corretamente. Se isso acontecer, aguarde pacientemente.
-- O bot Ravena não utiliza traduções não oficiais de personagens. Somente quando um personagem está oficialmente no jogo, será adicionado(a).
+- O bot Ravena não utiliza traduções não oficiais de personagens. Somente quando um personagem está oficialmente no jogo, será adicionado(a) o mais breve possível.
 
 ## Dúvidas?
 
