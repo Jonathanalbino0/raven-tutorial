@@ -1,22 +1,25 @@
-Olá, fico feliz em que você deseja adicionar a Ravena ao seu servidor!
+# Adicione o Bot Ravena ao seu Servidor!
 
-Instruções:
+## Instruções:
 
-1. Acesse esse link https://discord.com/api/oauth2/authorize?client_id=(coloque_seu_id_aqui)&permissions=8&scope=bot e escolha o servidor em que deseja colocar.
-2. O bot Ravena precisa de permissões especiais, para isso você deverá ir até o canal especifíco em que deseja que ela funcione, e dê permissão para enviar mensagens, mandar links e adicionar reações.
-Simples assim! :)
+1. Acesse [este link](https://discord.com/api/oauth2/authorize?client_id=(coloque_seu_id_aqui)&permissions=8&scope=bot) e escolha o servidor onde deseja adicionar a Ravena.
+2. O bot Ravena precisa de permissões especiais. Vá até o canal específico desejado e conceda permissões para enviar mensagens, mandar links e adicionar reações. Simples assim! :)
 
-O que ela faz?
+## O que ela faz?
 
-Basicamente ela tem comandos pré-definidos quando você digita "-ajuda" (sem aspas). Incluindo desde um guia sobre o jogo, das classes dos personagens até o resumo da última atualização do jogo com link do Patch Note.
-Os comandos de #guia-builds será atualizado á medida que novos personagens são implementados no jogo.
-Terá um arquivo de todos os comandos respectivos para cada personagem, então esteja ciente disso. Alguma hora o personagem será adicionado e irá para essa lista.
+- Digite "-ajuda" (sem aspas) para obter uma lista de comandos pré-definidos, incluindo um guia sobre o jogo, informações sobre as classes dos personagens e um resumo da última atualização com o link do Patch Note.
+- Os comandos de #guia-builds serão atualizados conforme novos personagens são implementados no jogo. Um arquivo contendo todos os comandos específicos para cada personagem estará disponível. Esteja ciente de que os personagens serão adicionados à lista quando introduzidos no jogo.
 
-Pode ser que de vez em quando ela entre em manutenção para verificar se está tudo funcionando, quando isso acontecer, só aguarde.
-O bot Ravena não utiliza de traduções não oficiais de personagens, mesmo vazando em alguma outra plataforma, SOMENTE quando está no jogo é que será adicionado(a).
-Ainda tem dúvidas? Dê o comando "-suporte" (sem aspas), lá terá um comando fornecido com o nosso email diretamente na sua DM(Direct Message) do Discord.
+- O bot Ravena pode entrar em manutenção ocasionalmente para verificar se está tudo funcionando corretamente. Se isso acontecer, aguarde pacientemente.
+- O bot Ravena não utiliza traduções não oficiais de personagens. Somente quando um personagem está oficialmente no jogo, será adicionado(a).
 
+## Dúvidas?
+
+- Utilize o comando "-suporte" (sem aspas) para obter informações de suporte. Um comando fornecerá nosso e-mail diretamente na sua DM (Direct Message) do Discord.
 
 Atenciosamente,
-criador do bot Ravena
+Criador do bot Ravena
+
+
+
 
