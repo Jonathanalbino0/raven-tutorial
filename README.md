@@ -2,7 +2,7 @@
 
 ## Instruções:
 
-1. Acesse [este link](https://discord.com/api/oauth2/authorize?client_id=(coloque_seu_id_aqui)&permissions=8&scope=bot) - lembre de colocar seu ID do Discord e escolha o servidor onde deseja adicionar a Ravena.
+1. Acesse [este link](https://discord.com/api/oauth2/authorize?client_id=(coloque_seu_id_aqui)&permissions=8&scope=bot) - lembre-se de colocar seu ID do Discord e escolha o servidor onde deseja adicionar a Ravena.
 2. O bot Ravena precisa de permissões especiais. Vá até o canal específico desejado e conceda permissões para enviar mensagens, mandar links e adicionar reações. Simples assim! :)
 
 ## O que ela faz?
